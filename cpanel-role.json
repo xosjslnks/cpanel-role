@@ -1,1 +1,74 @@
-{"users":{"1539901407":{"role":"PARTNER","username":"Apaaajaaaasu","firstName":"𝐘𝐨𝐳𝐚 𝐂𝐡𝐨𝐫𝐭𝐢𝐬","addedBy":"8492332284","updatedAt":"2026-08-02T14:16:26.241Z"},"1881875530":{"role":"PEMILIK_PANEL","username":"ChoujiShop","firstName":"𝐂𝐡𝐨𝐣𝐢 𝐒𝐡𝐨𝐩 — 𝐂𝐡𝐨𝐫𝐭𝐢𝐬","addedBy":"8492332284","updatedAt":"2026-08-01T12:32:12.577Z"},"8492332284":{"role":"PEMILIK_PANEL","username":"","firstName":"","addedBy":"config","updatedAt":"2026-08-01T12:26:36.281Z"},"8311655220":{"role":"RESSELER","username":"nanskzoo","firstName":"balryzl","addedBy":"8492332284","updatedAt":"2026-08-01T12:29:58.239Z"},"8176661274":{"role":"RESSELER","username":"Gonzakhasi","firstName":"Gonz","addedBy":"8492332284","updatedAt":"2026-08-01T13:49:32.382Z"},"8858392902":{"role":"RESSELER","username":"","firstName":"Kink Tra","addedBy":"1881875530","updatedAt":"2026-08-01T15:30:29.737Z"},"8788855625":{"role":"RESSELER","username":"UnknowKafzy","firstName":"未知 Kafz","addedBy":"8492332284","updatedAt":"2026-08-02T00:05:04.524Z"},"8652357713":{"role":"RESSELER","username":"zeyura16","firstName":"zeyu","addedBy":"1881875530","updatedAt":"2026-08-02T04:14:38.036Z"},"8221047642":{"role":"RESSELER","username":"ellkamisato","firstName":"kamisato ell","addedBy":"1881875530","updatedAt":"2026-08-02T14:56:40.172Z"},"7722924555":{"role":"RESSELER","username":"YonzNofake","firstName":"Yonzxd","addedBy":"8492332284","updatedAt":"2026-08-03T07:01:34.748Z"}}}
+{
+  "users": {
+    "1539901407": {
+      "role": "PARTNER",
+      "username": "Apaaajaaaasu",
+      "firstName": "𝐘𝐨𝐳𝐚 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
+      "addedBy": "8492332284",
+      "updatedAt": "2026-08-02T14:16:26.241Z"
+    },
+    "1881875530": {
+      "role": "PEMILIK_PANEL",
+      "username": "ChoujiShop",
+      "firstName": "𝐂𝐡𝐨𝐣𝐢 𝐒𝐡𝐨𝐩 — 𝐂𝐡𝐨𝐫𝐭𝐢𝐬",
+      "addedBy": "8492332284",
+      "updatedAt": "2026-08-01T12:32:12.577Z"
+    },
+    "8492332284": {
+      "role": "PEMILIK_PANEL",
+      "username": "",
+      "firstName": "",
+      "addedBy": "config",
+      "updatedAt": "2026-08-03T23:10:25.836Z"
+    },
+    "8311655220": {
+      "role": "RESSELER",
+      "username": "nanskzoo",
+      "firstName": "balryzl",
+      "addedBy": "8492332284",
+      "updatedAt": "2026-08-01T12:29:58.239Z"
+    },
+    "8176661274": {
+      "role": "RESSELER",
+      "username": "Gonzakhasi",
+      "firstName": "Gonz",
+      "addedBy": "8492332284",
+      "updatedAt": "2026-08-01T13:49:32.382Z"
+    },
+    "8858392902": {
+      "role": "RESSELER",
+      "username": "",
+      "firstName": "Kink Tra",
+      "addedBy": "1881875530",
+      "updatedAt": "2026-08-01T15:30:29.737Z"
+    },
+    "8788855625": {
+      "role": "RESSELER",
+      "username": "UnknowKafzy",
+      "firstName": "未知 Kafz",
+      "addedBy": "8492332284",
+      "updatedAt": "2026-08-02T00:05:04.524Z"
+    },
+    "8652357713": {
+      "role": "RESSELER",
+      "username": "zeyura16",
+      "firstName": "zeyu",
+      "addedBy": "1881875530",
+      "updatedAt": "2026-08-02T04:14:38.036Z"
+    },
+    "8221047642": {
+      "role": "RESSELER",
+      "username": "ellkamisato",
+      "firstName": "kamisato ell",
+      "addedBy": "1881875530",
+      "updatedAt": "2026-08-02T14:56:40.172Z"
+    },
+    "7722924555": {
+      "role": "RESSELER",
+      "username": "YonzNofake",
+      "firstName": "Yonzxd",
+      "addedBy": "8492332284",
+      "updatedAt": "2026-08-03T07:01:34.748Z"
+    }
+  }
+}
